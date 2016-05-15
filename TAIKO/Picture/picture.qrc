@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>bg.png</file>
+        <file>BackGround.jpg</file>
+        <file>resultbg_clear.png</file>
+        <file>dancer/target.png</file>
+    </qresource>
+    <qresource prefix="/picture">
+        <file>mtaikoflash_blue.png</file>
+        <file>mtaikoflash_red.png</file>
+        <file>mtaiko.png</file>
+        <file>mtaiko_p2.png</file>
+    </qresource>
+</RCC>
